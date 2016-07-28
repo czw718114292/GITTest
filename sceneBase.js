@@ -1,7 +1,7 @@
 /**
  * Created by chenzhaowen on 16-6-21.
  */
-
+//change
 var sceneBase = cc.Layer.extend({
     _id:null,
     _itemArr:null,
